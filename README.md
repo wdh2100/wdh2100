@@ -16,6 +16,7 @@ full stack(front ❤❤ back ❤) developer. <br>
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-React-blue"/>
   <img src="https://img.shields.io/badge/-Vuejs-green"/>
+  <img src="https://img.shields.io/badge/-Webpack-informational"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-AWS-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
