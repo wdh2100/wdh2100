@@ -8,15 +8,15 @@ I'm Dohyeong Woo, a full stack(front ❤❤ back ❤) developer. <br>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-C++-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-C++-brightblue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <br>
-  <img src="https://img.shields.io/badge/-SpringBoot-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-React-blue"/>
-  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>
+  <img src="https://img.shields.io/badge/-Vuejs-green"/>
   <br>
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-AWS-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
