@@ -7,7 +7,7 @@ I'm Dohyeong Woo, a full stack(front ❤❤ back ❤) developer. <br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-C++-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
