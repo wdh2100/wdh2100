@@ -3,7 +3,8 @@
 
 <h3 align="center"> 👋 Hi 👋 </h3>
 <p align="center">
-I'm Dohyeong Woo, a full stack(front ❤❤ back ❤) developer. <br>
+I'm Dohyeong Woo,<br>
+full stack(front ❤❤ back ❤) developer. <br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
